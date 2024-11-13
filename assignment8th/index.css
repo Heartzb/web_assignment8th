@@ -1,0 +1,48 @@
+.d1{
+    color:aqua;
+    text-align: center;
+    text-align-last: left;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+
+body{
+    text-shadow: hsl(from color h s l);
+    background-color: burlywood;
+    text-align: center;
+}
+
+.img{
+    width: 600px;
+    height: 600px;
+    border-radius: 1500px;
+    margin-top: 150;
+    margin-right: 150px;
+    vertical-align: middle;
+    position: fixed;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.ul{
+    list-style-type: circle;
+    color: white;
+}
+
+.ol{
+    list-style-type: upper-roman;
+    color:white;
+} 
+.txt{
+    color:aqua;
+}
+
+h1{
+    text-align: end;
+}
+h2{
+    text-align: right;
+}
